@@ -53,11 +53,11 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=MatheusAlmeida06&show_icons=true&theme=dark&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=MatheusAlmeida06&show_icons=true&theme=graywhite&include_all_commits=true"
     alt="GitHub Stats" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlmeida06&layout=compact&theme=dark" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlmeida06&layout=compact&theme=graywhite" 
     width="355"
     alt="Top Languages" 
   />
