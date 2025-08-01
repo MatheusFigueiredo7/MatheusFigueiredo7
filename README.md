@@ -63,5 +63,5 @@
   />
 </div>
 
-<br><br>
+<br>
 <div align="center"><em>“The people who are crazy enough to think they can change the world are the ones who do.”</em></div>
