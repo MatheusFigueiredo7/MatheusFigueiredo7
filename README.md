@@ -1,141 +1,67 @@
-# 👋 Hi, I'm Matheus!
+<h1>👋 Hi, I'm Matheus!</h1>
 
-### 👨‍💻 About Me
+<div>
+  <h3>👨‍💻 About Me</h3>
+  <p>I'm a back-end enthusiast who enjoys solving real problems with clean, scalable code.<br>
+  When I'm not coding, I'm probably reading about new technologies or improving my workflows.</p>
+  <p>🎓 I'm a Software Engineering student passionate about technology and innovation.<br>
+  💭 Always exploring how code can solve real-world problems and help build a better world.</p>
+</div>
 
-I'm a back-end enthusiast who enjoys solving real problems with clean, scalable code.  
-When I'm not coding, I'm probably reading about new technologies or improving my workflows.
+<div>
+  <img src="https://img.shields.io/badge/Status-Student-blue" />
+  <img src="https://img.shields.io/badge/Focus-Back--End-informational" />
+  <img src="https://img.shields.io/badge/Learning-Django-success" />
+</div>
 
-🎓 A Software Engineering student passionate about technology and innovation.  
-💭 Always exploring how code can solve real-world problems and make the world a better place.
+<h2 align="left">📘 Currently Participating</h2>
 
-![Status](https://img.shields.io/badge/Status-Student-blue)
-![Focus](https://img.shields.io/badge/Focus-Back--End-informational)
-![Learning](https://img.shields.io/badge/Learning-Django-success)
+<div align="left">
+  <ul>
+    <li><strong>Meta Back-End Developer Professional Certificate Program</strong><br>
+    Learning: Python · Git · MySQL · Django · REST APIs</li>
+  </ul>
+</div>
 
+<h2 align="left">🤖 Tech Stack</h2>
 
----
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML" title="HTML"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS" title="CSS"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="40" alt="Django" title="Django"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-plain-wordmark.svg" height="40" alt="Django REST" title="Django REST"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="40" alt="Flask" title="Flask"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original-wordmark.svg" height="40" alt="DiscordJS" title="DiscordJS"/>
+</div>
 
-### 📘 Currently Participating
+<h2 align="left">📊 GitHub Stats</h2>
 
-- **Meta Back-End Developer Professional Certificate Program**  
-  Learning: Python · Git · MySQL · Django · REST APIs
-
----
-
-### 🤖 Tech Stack
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="Flask" 
-    title="Flask"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Lua" 
-    title="Lua"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"
-/>
-
-<br clear="left"/>
-
----
-
-### 📊 GitHub Stats
-
-<p>
+<div align="center">
   <img 
-    align="left" 
-    alt="Matheus' GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MatheusAlmeida06&show_icons=true&theme=tokyonight&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=MatheusAlmeida06&show_icons=true&theme=dark&include_all_commits=true"
+    alt="GitHub Stats" 
   />
   <img 
-    align="left" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlmeida06&layout=compact&theme=dark" 
+    width="355"
     alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlmeida06&theme=tokyonight&layout=compact&custom_title=Top%20Languages&langs_count=9"
   />
-</p>
+</div>
 
-<br clear="left"/>
-
----
-
-### 📬 Get in Touch
-
-- [LinkedIn](https://www.linkedin.com/in/matheusalmeida06/)  
-- [Email](mailto:matheusalmeidafigueiredo@gmail.com)
-
----
-
-> “The people who are crazy enough to think they can change the world are the ones who do.” – Steve Jobs 🧠
+<br><br>
+<div align="center"><em>“The people who are crazy enough to think they can change the world are the ones who do.”</em></div>
