@@ -1,8 +1,10 @@
+<img src="https://i.postimg.cc/XqqkZyk2/banner-linkedin.png" alt="Banner ou Foto de Perfil" width="100%"/>
+
 <h1>👋 Hi, I'm Matheus!</h1>
 
 <div>
   <h3>👨‍💻 About Me</h3>
-  <p>I'm a back-end enthusiast who enjoys solving real problems with clean, scalable code.<br>
+  <p>I'm a Full-Stack enthusiast who enjoys solving real problems with clean, scalable code.<br>
   When I'm not coding, I'm probably reading about new technologies or improving my workflows.</p>
   <p>🎓 I'm a Software Engineering student passionate about technology and innovation.<br>
   💭 Always exploring how code can solve real-world problems and help build a better world.</p>
