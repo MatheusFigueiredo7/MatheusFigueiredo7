@@ -81,10 +81,5 @@
 
 <h2 align="center">📫 Connect with Me</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/matheusfigueiredo7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25px"/>
-  </a>
-  <a href="mailto:matheus.figueiredo0620@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25px"/>
-  </a>
+  <a href="https://www.linkedin.com/in/matheusfigueiredo7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25px"/></a><a href="mailto:matheus.figueiredo0620@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25px"/></a>
 </div>
