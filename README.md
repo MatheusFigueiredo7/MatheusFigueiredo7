@@ -73,7 +73,7 @@
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusFigueiredo7&show_icons=true&include_all_commits=true&theme=graywhite" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFigueiredo7&layout=compact&theme=graywhite" width="355" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats-sand-three.vercel.app/?user=MatheusFigueiredo7&theme=graywhite" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-sand-three.vercel.app/?user=MatheusFigueiredo7" alt="GitHub Streak" />
 </div>
 
 <br>
