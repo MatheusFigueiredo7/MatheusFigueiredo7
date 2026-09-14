@@ -13,17 +13,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Student-blue" />
   <img src="https://img.shields.io/badge/Focus-Back--End-informational" />
-  <img src="https://img.shields.io/badge/Learning-Django-success" />
 </div>
 
-<h2 align="left">📚 Currently Learning</h2>
-<div align="left">
-  <ul>
-    <li><strong>Meta Back-End Developer Professional Certificate Program</strong><br>
-        Learning: Python · Git · MySQL · Django · REST APIs</li>
-    <li>Deepening knowledge in <strong>Django REST Framework</strong> and <strong>Docker</strong></li>
-  </ul>
-</div>
 
 <h2 align="left">🤖 Tech Stack</h2>
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
@@ -71,8 +62,6 @@
 
 <h2 align="left">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusFigueiredo7&show_icons=true&include_all_commits=true&theme=graywhite" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFigueiredo7&layout=compact&theme=graywhite" width="355" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com/?user=MatheusFigueiredo7" alt="GitHub Streak" />
 </div>
 
